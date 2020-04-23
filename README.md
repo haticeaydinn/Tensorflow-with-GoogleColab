@@ -1,2 +1,2 @@
 # tensorflow-implementation
-TensorFlow implementation on GoogleColab
+TensorFlow implementation on Google Colab

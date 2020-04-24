@@ -1,6 +1,7 @@
 # tensorflow-implementation
-TensorFlow implementation on Google Colab
+TensorFlow implementations on Google Colab
 
+House Price Prediction
 Problem definition: It is a very simple and not-real machine learning problem and I implement it only to learn tf functions. I will predict house prices. data consists of two columns: house size and price. I created data with random function. Also, it's a linear regression problem.
 
 Prediction formula: size_factor * house_size + price_offset
@@ -9,3 +10,5 @@ price_offset = b (bias)
 We will learn size_factor and price_offset from the data.
 
 Loss function: Mean squared error
+
+Simple MNIST
